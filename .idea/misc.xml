@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ThinkPad/AndroidStudioProjects/MessagingSampleApp/app/src/main/res/layout/activity_channel.xml" value="0.13069908814589665" />
+        <entry key="..\:/Users/ThinkPad/AndroidStudioProjects/MessagingSampleApp/app/src/main/res/layout/activity_channel.xml" value="0.33" />
         <entry key="..\:/Users/ThinkPad/AndroidStudioProjects/MessagingSampleApp/app/src/main/res/layout/activity_main.xml" value="0.12386018237082067" />
+        <entry key="..\:/Users/ThinkPad/AndroidStudioProjects/MessagingSampleApp/app/src/main/res/layout/my_messages_layout.xml" value="0.13069908814589665" />
       </map>
     </option>
   </component>
